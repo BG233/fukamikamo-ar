@@ -1,2 +1,2 @@
-# fukamikamo-ar.github.io
+# fukamikamo-ar
 Hello
