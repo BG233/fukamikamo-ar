@@ -13,8 +13,8 @@
   <body>
     <a-scene embedded arjs="patternRatio:0.80">
 
-      <!-- assets -->
-      <a-assets>
+      <!-- preloading assets. The default timeout is 3 seconds -->
+      <a-assets timeout="10000">
         <img id="kfrm" src="src/kfrm.gif">
       </a-assets>
 
